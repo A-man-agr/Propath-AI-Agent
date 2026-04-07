@@ -1,0 +1,26 @@
+
+google-adk==1.14.0
+langchain-community==0.3.27
+wikipedia==1.4.0
+google-adk
+fastapi
+uvicorn
+google-cloud-bigquery
+langchain
+langchain-core
+langchain-community
+wikipedia
+fastapi
+uvicorn
+pydantic
+python-dotenv
+google-cloud-logging
+google-cloud-firestore  # Or google-cloud-datastore if you chose that one
+sqlalchemy
+fastapi
+uvicorn
+pydantic
+python-dotenv
+google-cloud-logging
+google-cloud-datastore
+google-adk  # Ensure this matches the exact library name you used locally
