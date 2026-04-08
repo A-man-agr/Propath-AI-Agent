@@ -85,3 +85,9 @@ uvicorn agent:app --host 0.0.0.0 --port 8080 --reload
 Once the server is running, the agent routing and thought process can be analyzed live through the ADK interface:
 
 ![ADK Inspector UI](assets/adk-screenshot.png)
+
+---
+
+## 📜 License
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
