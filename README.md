@@ -1,4 +1,4 @@
-# 🚀 ProPath AI
+#  ProPath AI
 **Your Unified Career, Resume, and Job Tracking "Robo-Manager"**
 
 Welcome to **ProPath AI**—a revolutionary approach to managing your career. We are moving past the era of single-use AI chatbots and entering the era of an automated **Multi-Agent AI Executive Team**.
@@ -15,25 +15,25 @@ As developers and professionals, applying for jobs is exhausting. You likely jug
 
 This fragmentation leads to burnout and missed opportunities.
 
-## 🌟 The Project: One Chat Interface, Four AI Agents
+##  The Project: One Chat Interface, Four AI Agents
 
 ![Process Flow Diagram](assets/process-flow.png)
 
 **ProPath AI** solves this fragmentation. Instead of filling out spreadsheet forms or opening documents, you simply chat naturally with the system. Behind the scenes, we built a highly advanced **Manager AI** that listens to you and instantly delegates your requests to four specialized AI workers:
 
-### 👔 1. The ProPath Manager (The Brain)
+###  1. The ProPath Manager (The Brain)
 You only talk to the Manager. It analyzes what you want (e.g., "I applied to Google today!") and routes it to exactly the right sub-agent so you don't have to navigate menus.
 
-### 🎯 2. Career Advisor Sub-Agent
+###  2. Career Advisor Sub-Agent
 Replacing your notebooks. Chat with this AI to define, refine, and securely log your long-term career aspirations.
 
-### 📝 3. Resume Builder Sub-Agent
+###  3. Resume Builder Sub-Agent
 Replacing Microsoft Word. Tell this agent about a recent project you built, and it will format it to recruitment standards and securely store it as a modular "Experience" section directly in the cloud.
 
-### ✅ 4. Task Manager Sub-Agent
+###  4. Task Manager Sub-Agent
 Replacing sticky notes. Ask the AI to remind you to "prep for a behavioral interview tomorrow," and it invisibly updates your cloud to-do list so you never forget.
 
-### 🏢 5. Job Tracker Sub-Agent
+###  5. Job Tracker Sub-Agent
 Replacing Excel. Simply say "I got an interview at Acme Corp." The agent extracts the company name, status, and role, automatically updating your persistent job application database.
 
 ---
