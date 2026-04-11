@@ -1,4 +1,4 @@
-![ProPath AI Banner](assets/process-banner.png)
+![ProPath AI Banner](assets-banner.png)
 
 #  ProPath AI
 **Your Unified Career, Resume, and Job Tracking "Robo-Manager"**
